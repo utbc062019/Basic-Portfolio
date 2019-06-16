@@ -82,7 +82,10 @@ footer {
     bottom: 0%;
     width: 100%;
     height: 50px;
-    border-top: 8px solid #4aaaa5
+    border-top: 8px solid #4aaaa5;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px
 }
 .pic {
     height: 200px;
@@ -94,9 +97,11 @@ form {
     padding: 15px
 }
 input {
-    margin: 10px
+    margin: 10px;
+    width: 500px
 }
 textarea {
-    margin: 10px
+    margin: 10px;
+    overflow: scroll
 }
 /*.a {background: #ffffff}*/
