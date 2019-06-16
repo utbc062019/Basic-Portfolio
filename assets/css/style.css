@@ -10,7 +10,6 @@
     margin-right: 10px
 }
 body {
-    /*width: 800px;*/
     margin: 0 auto;
     background: #ffffff;
     color: #777777
@@ -30,14 +29,8 @@ header {
     color: white;
     margin-left: 200px
 }
-/*header::after {
-    content: "";
-    clear: both;
-    display: block
-}*/
 nav {
     float: left;
-    /*background: red;*/
     width: 700px;
     margin-top: 15px
 }
@@ -104,4 +97,3 @@ textarea {
     margin: 10px;
     overflow: scroll
 }
-/*.a {background: #ffffff}*/
